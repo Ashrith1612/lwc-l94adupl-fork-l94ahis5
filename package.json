@@ -1,0 +1,7 @@
+{
+  "name": "@wcd/ashrith1612.lwc-l94adupl-fork-l94ahis5",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve 4Qm3YN2MGzZqESCZYCmW --open"
+  }
+}
